@@ -31,4 +31,4 @@ https://github.com/dsolution-eu/the-card-demo/blob/main/demo/The%20Card%20Effect
 
 ## Screenshots
 The project should be responsive by screen width. For the visualzation at different resolution, see the screenshot section in the project folder.
-Link: https://github.com/CodeSnooker/the-card-effect/tree/main/screenshots
+Link: https://github.com/dsolution-eu/the-card-demo/tree/main/screenshots
