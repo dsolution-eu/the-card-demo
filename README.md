@@ -26,7 +26,7 @@ https://github.com/dsolution-eu/the-card-demo/blob/main/demo/The%20Card%20Effect
     - second plays along with first one only if user hovers on the central big image section of the card.
 
 ## Brownie Points
-1. After completing the HTML design, conver the design into React app
+1. After completing the HTML design, convert the design into React app
 2. Host the app on Heroku or Netlify.
 
 ## Duration
