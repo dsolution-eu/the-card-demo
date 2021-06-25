@@ -25,6 +25,9 @@ https://github.com/dsolution-eu/the-card-demo/blob/main/demo/The%20Card%20Effect
     - one plays when user hover any part of the card  
     - second plays along with first one only if user hovers on the central big image section of the card.
 
+## Brownie Points
+1. After completing the HTML design, conver the design into React app
+2. Host the app on Heroku or Netlify.
 
 ## Duration
 2 Hours - 4 Hours
