@@ -10,7 +10,7 @@ Level 2
 Draw 2 User Info card that plays different CSS animations when hover at certain sections of the card. See the attached video for complete demo.
 
 ## Demo Link
-https://github.com/CodeSnooker/the-card-effect/blob/main/demo/The%20Card%20Effect%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202021-06-22%2003-01-28.mp4
+https://github.com/dsolution-eu/the-card-demo/blob/main/demo/The%20Card%20Effect%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202021-06-22%2003-01-28.mp4
 
 ## Rules
 1. You can add as many as CSS classes you want. Just duplicating bootstrap functionality.
